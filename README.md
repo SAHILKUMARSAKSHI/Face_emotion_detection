@@ -32,11 +32,11 @@ Facial-Emotion-Recognition/
 git clone https://github.com/SAHILKUMARSAKSHI/Facial-Emotion-Recognition.git
 cd Facial-Emotion-Recognition
 
-2. (Optional) Create virtual environment
+###2. (Optional) Create virtual environment
 conda create -n fer python=3.10 -y
 conda activate fer
 
-3. Install dependencies
+###3. Install dependencies
 pip install -r requirements.txt
 
 If you don't have a requirements file, install manually:
